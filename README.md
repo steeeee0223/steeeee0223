@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on [Codesandbox clone](https://github.com/steeeee0223/code-sandbox)
 
--   🌱 I’m currently learning **React and NodeJs**
+-   🌱 I’m currently learning **Next.js, Rust, and Node.js**.
 
 -   👨‍💻 All of my projects are available at [https://github.com/steeeee0223?tab=repositories](https://github.com/steeeee0223?tab=repositories)
 
