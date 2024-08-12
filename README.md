@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steve Yu</h1>
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
--   🔭 I’m currently working on [Rust HFDP](https://github.com/steeeee0223/rust-hfdp/) and [WorXpace](https://github.com/steeeee0223/nextjs-stuff)
+-   🔭 I’m currently working on [WorXpace (Notion Clone)](https://github.com/steeeee0223/nextjs-stuff)
 
--   🌱 I’m currently learning **Next.js, Rust, and Node.js**.
+-   🌱 I’m currently learning **Next.js and Rust**.
 
 -   👨‍💻 All of my projects are available at [https://github.com/steeeee0223?tab=repositories](https://github.com/steeeee0223?tab=repositories)
 
