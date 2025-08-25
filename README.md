@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve Yu</h1>
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
--   🔭 I’m currently working on [WorXpace (Notion Clone)](https://github.com/steeeee0223/nextjs-stuff)
+-   🔭 I’m currently working on [Notion Kit](https://github.com/steeeee0223/notion-kit)
 
 -   🌱 I’m currently learning **Next.js and Rust**.
 
