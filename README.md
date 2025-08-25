@@ -9,6 +9,8 @@
 
 -   📫 How to reach me **mr.steven7@gmail.com**
 
+-   [LinkedIn](https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/)
+
 ---
 
 <div align="center"> 
