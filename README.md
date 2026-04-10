@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Yu</h1>
-<h3 align="center">A passionate backend developer from Taiwan</h3>
+<h3 align="center">A passionate fullstack developer from Taiwan</h3>
 
 -   🔭 I’m currently working on [Notion Kit](https://github.com/steeeee0223/notion-kit)
 
