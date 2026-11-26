@@ -1,29 +1,29 @@
-# Steve Yu
+# ![Steve Yu, frontend developer in Hsinchu, Taiwan](assets/profile-cover.png)
 
-**Frontend developer** · Hsinchu, Taiwan
+I build interactive websites and reusable UI with TypeScript.
 
-I build interactive websites and reusable UI with TypeScript. One detail I enjoyed building is a book that remembers where you stopped reading.
+[Portfolio ↗](https://steeport.vercel.app/) · [LinkedIn ↗](https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/) · [Email](mailto:mr.steven7@gmail.com)
 
-[Email](mailto:mr.steven7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/)
+## Steeport
 
-## Steeport · The window seat
+**A walkable 3D café in your browser.** Start at the window seat, open a book, or build a reading room next door. You can switch camera views mid-visit and the book you left open stays open.
 
-[![Visit Steeport, a 3D café with a laptop, notebook, and mug at the window seat](https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/public/studies/window-seat.jpg)](https://steeport.vercel.app/)
+| At the window | Overhead pixel view |
+| --- | --- |
+| [![First-person view from the café window seat](https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/public/studies/window-seat.jpg)](https://steeport.vercel.app/) | [![Pixel view of the café with its counter, bookshelf, and tables](https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/content/books/steeport-devlog/images/pixel-room.jpg)](https://steeport.vercel.app/books/steeport-devlog/#08-switching) |
 
-My portfolio is a walkable 3D café. You start at the window seat. Open the book on the desk, pet Leo, or build a reading room next door. Switch to the overhead pixel view and everything stays where you left it.
+Three.js · TypeScript · Blender
 
-`Three.js` · `TypeScript` · `Blender`
+[Enter the café ↗](https://steeport.vercel.app/) · [View source ↗](https://github.com/steeeee0223/steeport) · [開發日誌 ↗](https://steeport.vercel.app/books/steeport-devlog/)
 
-[Visit the café ↗](https://steeport.vercel.app/) · [Source](https://github.com/steeeee0223/steeport) · [開發日誌](https://steeport.vercel.app/books/steeport-devlog/)
+## More frontend projects
 
-## More projects
+### [Notion Kit ↗](https://github.com/steeeee0223/notion-kit)
 
-### [Notion Kit](https://github.com/steeeee0223/notion-kit)
+An unstyled React component registry for building Notion-style interfaces, including a database table.
 
-A React component registry for building Notion-style interfaces, including a database table. The components come unstyled so you can use your own design system.
-
-### [Code Sandbox](https://github.com/steeeee0223/steeeee-sandbox)
+### [Code Sandbox ↗](https://github.com/steeeee0223/steeeee-sandbox)
 
 A browser code editor with CodeMirror, resizable panels, and a live preview powered by Sandpack.
 
-[All repositories ↗](https://github.com/steeeee0223?tab=repositories)
+[Browse all repositories ↗](https://github.com/steeeee0223?tab=repositories)
