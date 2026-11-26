@@ -27,3 +27,17 @@ An unstyled React component registry for building Notion-style interfaces, inclu
 A browser code editor with CodeMirror, resizable panels, and a live preview powered by Sandpack.
 
 [Browse all repositories ↗](https://github.com/steeeee0223?tab=repositories)
+
+## Skill tree
+
+```text
+Frontend
+├─ UI
+│  ├─ TypeScript · React · Next.js
+│  └─ Tailwind CSS
+├─ Web 3D
+│  └─ Three.js · Blender
+└─ Build & test
+   ├─ Vite · pnpm
+   └─ Vitest · Playwright
+```
