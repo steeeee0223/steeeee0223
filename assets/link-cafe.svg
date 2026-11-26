@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="158" height="36" viewBox="0 0 158 36">
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="36" viewBox="0 0 164 36">
   <title>Enter the café</title>
-  <rect width="158" height="36" fill="#d5e89b"/>
-  <path d="M0 35.5h158" stroke="#9faa74"/>
+  <rect width="164" height="36" fill="#d5e89b"/>
+  <path d="M0 35.5h164" stroke="#9faa74"/>
   <g transform="translate(11 10) scale(.666667)" fill="none" stroke="#202d25" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M10 2v2" />
     <path d="M14 2v2" />

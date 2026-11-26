@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="36" viewBox="0 0 100 36">
+<svg xmlns="http://www.w3.org/2000/svg" width="114" height="36" viewBox="0 0 114 36">
   <title>LinkedIn</title>
-  <rect width="100" height="36" fill="#314038"/>
-  <path d="M0 35.5h100" stroke="#6d7a66"/>
+  <rect width="114" height="36" fill="#314038"/>
+  <path d="M0 35.5h114" stroke="#6d7a66"/>
   <g transform="translate(11 10) scale(.666667)" fill="none" stroke="#eff1dc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
     <path d="M12 12h.01" />
     <path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" />

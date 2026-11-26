@@ -3,10 +3,10 @@
 I build interactive websites and reusable UI with TypeScript.
 
 <p>
-  <a href="https://steeport.vercel.app/"><img src="assets/link-portfolio.svg" width="108" height="36" alt="Portfolio"></a>
-  <a href="https://steeeee.notion.site/Shih-Wen-Yu-24535e0f492c8051b5fff2467ec32a37?source=copy_link"><img src="assets/link-resume.svg" width="92" height="36" alt="Résumé"></a>
-  <a href="https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/"><img src="assets/link-linkedin.svg" width="100" height="36" alt="LinkedIn"></a>
-  <a href="mailto:mr.steven7@gmail.com" title="mr.steven7@gmail.com"><img src="assets/link-email.svg" width="84" height="36" alt="Email mr.steven7@gmail.com"></a>
+  <a href="https://steeport.vercel.app/"><img src="assets/link-portfolio.svg" width="122" height="36" alt="Portfolio"></a>
+  <a href="https://steeeee.notion.site/Shih-Wen-Yu-24535e0f492c8051b5fff2467ec32a37?source=copy_link"><img src="assets/link-resume.svg" width="97" height="36" alt="Résumé"></a>
+  <a href="https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/"><img src="assets/link-linkedin.svg" width="114" height="36" alt="LinkedIn"></a>
+  <a href="mailto:mr.steven7@gmail.com" title="mr.steven7@gmail.com"><img src="assets/link-email.svg" width="88" height="36" alt="Email mr.steven7@gmail.com"></a>
 </p>
 
 ## Steeport
@@ -20,9 +20,9 @@ I build interactive websites and reusable UI with TypeScript.
 Three.js · TypeScript · Blender
 
 <p>
-  <a href="https://steeport.vercel.app/"><img src="assets/link-cafe.svg" width="158" height="36" alt="Enter the café"></a>
-  <a href="https://github.com/steeeee0223/steeport"><img src="assets/link-source.svg" width="92" height="36" alt="View source"></a>
-  <a href="https://steeport.vercel.app/books/steeport-devlog/"><img src="assets/link-devlog.svg" width="101" height="36" alt="開發日誌"></a>
+  <a href="https://steeport.vercel.app/"><img src="assets/link-cafe.svg" width="164" height="36" alt="Enter the café"></a>
+  <a href="https://github.com/steeeee0223/steeport"><img src="assets/link-source.svg" width="97" height="36" alt="View source"></a>
+  <a href="https://steeport.vercel.app/books/steeport-devlog/"><img src="assets/link-devlog.svg" width="102" height="36" alt="開發日誌"></a>
 </p>
 
 ## More frontend projects
