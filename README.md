@@ -10,7 +10,7 @@ I build interactive websites and reusable UI with TypeScript.
 
 | At the window | Overhead pixel view |
 | --- | --- |
-| [![First-person view from the café window seat](https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/public/studies/window-seat.jpg)](https://steeport.vercel.app/) | [![Pixel view of the café with its counter, bookshelf, and tables](https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/content/books/steeport-devlog/images/pixel-room.jpg)](https://steeport.vercel.app/books/steeport-devlog/#08-switching) |
+| <a href="https://steeport.vercel.app/"><img src="https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/public/studies/window-seat.jpg" alt="First-person view from the café window seat" width="416"></a> | <a href="https://steeport.vercel.app/books/steeport-devlog/#08-switching"><img src="https://raw.githubusercontent.com/steeeee0223/steeport/2df09469f7e17e2cfdcf2750ec612d708203bfbc/content/books/steeport-devlog/images/pixel-room.jpg" alt="Pixel view of the café with its counter, bookshelf, and tables" width="368"></a> |
 
 Three.js · TypeScript · Blender
 
