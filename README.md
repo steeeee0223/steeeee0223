@@ -2,7 +2,11 @@
 
 I build interactive websites and reusable UI with TypeScript.
 
-**[Portfolio ↗](https://steeport.vercel.app/) · [Résumé ↗](https://steeeee.notion.site/Shih-Wen-Yu-24535e0f492c8051b5fff2467ec32a37?source=copy_link) · [LinkedIn ↗](https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/)**
+<p>
+  <a href="https://steeport.vercel.app/"><img src="assets/link-portfolio.png" width="104" height="36" alt="Portfolio"></a>
+  <a href="https://steeeee.notion.site/Shih-Wen-Yu-24535e0f492c8051b5fff2467ec32a37?source=copy_link"><img src="assets/link-resume.png" width="100" height="36" alt="Résumé"></a>
+  <a href="https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/"><img src="assets/link-linkedin.png" width="100" height="36" alt="LinkedIn"></a>
+</p>
 
 Email [mr.steven7@gmail.com](mailto:mr.steven7@gmail.com)
 
@@ -21,13 +25,6 @@ Three.js · TypeScript · Blender
   <a href="https://github.com/steeeee0223/steeport"><img src="assets/link-source.png" width="97" height="36" alt="View source"></a>
   <a href="https://steeport.vercel.app/books/steeport-devlog/"><img src="assets/link-devlog.png" width="111" height="36" alt="開發日誌"></a>
 </p>
-
-## Skill tree
-
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/skills-mobile.png">
-  <img src="assets/skills.png" width="820" alt="Frontend skill tree. UI: TypeScript, React, Next.js and Tailwind CSS. Web 3D: Three.js and Blender. Build and test: Vite, pnpm, Vitest and Playwright.">
-</picture>
 
 ## More frontend projects
 
