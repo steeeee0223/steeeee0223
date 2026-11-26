@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="36" viewBox="0 0 97 36">
+  <title>Résumé</title>
+  <rect width="97" height="36" fill="#314038"/>
+  <path d="M0 35.5h97" stroke="#6d7a66"/>
+  <g transform="translate(11 10) scale(.666667)" fill="none" stroke="#eff1dc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" />
+    <path d="M14 2v5a1 1 0 0 0 1 1h5" />
+    <path d="M10 9H8" />
+    <path d="M16 13H8" />
+    <path d="M16 17H8" />
+  </g>
+  <text x="34" y="23" fill="#eff1dc" font-family="Menlo, Consolas, 'Noto Sans Mono CJK TC', monospace" font-size="14">Résumé</text>
+</svg>

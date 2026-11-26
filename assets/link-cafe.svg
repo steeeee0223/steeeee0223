@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="36" viewBox="0 0 164 36">
+  <title>Enter the café</title>
+  <rect width="164" height="36" fill="#d5e89b"/>
+  <path d="M0 35.5h164" stroke="#9faa74"/>
+  <g transform="translate(11 10) scale(.666667)" fill="none" stroke="#202d25" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 2v2" />
+    <path d="M14 2v2" />
+    <path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1" />
+    <path d="M6 2v2" />
+  </g>
+  <text x="34" y="23" fill="#202d25" font-family="Menlo, Consolas, 'Noto Sans Mono CJK TC', monospace" font-size="14">Enter the café</text>
+</svg>
