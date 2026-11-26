@@ -2,7 +2,11 @@
 
 I build interactive websites and reusable UI with TypeScript.
 
-[Portfolio ↗](https://steeport.vercel.app/) · [LinkedIn ↗](https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/) · [Email](mailto:mr.steven7@gmail.com)
+<p>
+  <a href="https://steeport.vercel.app/"><kbd>&ensp;<strong>Portfolio ↗</strong>&ensp;</kbd></a>
+  <a href="https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/"><kbd>&ensp;LinkedIn ↗&ensp;</kbd></a>
+  <a href="mailto:mr.steven7@gmail.com"><kbd>&ensp;Email&ensp;</kbd></a>
+</p>
 
 ## Steeport
 
@@ -14,7 +18,11 @@ I build interactive websites and reusable UI with TypeScript.
 
 Three.js · TypeScript · Blender
 
-[Enter the café ↗](https://steeport.vercel.app/) · [View source ↗](https://github.com/steeeee0223/steeport) · [開發日誌 ↗](https://steeport.vercel.app/books/steeport-devlog/)
+<p>
+  <a href="https://steeport.vercel.app/"><kbd>&ensp;<strong>Enter the café ↗</strong>&ensp;</kbd></a>
+  <a href="https://github.com/steeeee0223/steeport"><kbd>&ensp;Source ↗&ensp;</kbd></a>
+  <a href="https://steeport.vercel.app/books/steeport-devlog/"><kbd>&ensp;開發日誌 ↗&ensp;</kbd></a>
+</p>
 
 ## More frontend projects
 
@@ -26,18 +34,25 @@ An unstyled React component registry for building Notion-style interfaces, inclu
 
 A browser code editor with CodeMirror, resizable panels, and a live preview powered by Sandpack.
 
-[Browse all repositories ↗](https://github.com/steeeee0223?tab=repositories)
+<p>
+  <a href="https://github.com/steeeee0223?tab=repositories"><kbd>&ensp;All repositories ↗&ensp;</kbd></a>
+</p>
 
 ## Skill tree
 
-```text
-Frontend
-├─ UI
-│  ├─ TypeScript · React · Next.js
-│  └─ Tailwind CSS
-├─ Web 3D
-│  └─ Three.js · Blender
-└─ Build & test
-   ├─ Vite · pnpm
-   └─ Vitest · Playwright
-```
+<table>
+  <tbody>
+    <tr>
+      <th scope="row" align="left"><samp>├─</samp>&ensp;UI</th>
+      <td><code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code></td>
+    </tr>
+    <tr>
+      <th scope="row" align="left"><samp>├─</samp>&ensp;Web 3D</th>
+      <td><code>Three.js</code> <code>Blender</code></td>
+    </tr>
+    <tr>
+      <th scope="row" align="left"><samp>└─</samp>&ensp;Build &amp; test</th>
+      <td><code>Vite</code> <code>pnpm</code> <code>Vitest</code> <code>Playwright</code></td>
+    </tr>
+  </tbody>
+</table>
