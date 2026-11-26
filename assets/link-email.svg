@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="36" viewBox="0 0 84 36">
+  <title>Email</title>
+  <rect width="84" height="36" fill="#314038"/>
+  <path d="M0 35.5h84" stroke="#6d7a66"/>
+  <g transform="translate(11 10) scale(.666667)" fill="none" stroke="#eff1dc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7" />
+    <rect x="2" y="4" width="20" height="16" rx="2" />
+  </g>
+  <text x="34" y="23" fill="#eff1dc" font-family="Menlo, Consolas, 'Noto Sans Mono CJK TC', monospace" font-size="14">Email</text>
+</svg>

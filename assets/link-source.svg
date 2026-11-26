@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="36" viewBox="0 0 92 36">
+  <title>Source</title>
+  <rect width="92" height="36" fill="#314038"/>
+  <path d="M0 35.5h92" stroke="#6d7a66"/>
+  <g transform="translate(11 10) scale(.666667)" fill="none" stroke="#eff1dc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m18 16 4-4-4-4" />
+    <path d="m6 8-4 4 4 4" />
+    <path d="m14.5 4-5 16" />
+  </g>
+  <text x="34" y="23" fill="#eff1dc" font-family="Menlo, Consolas, 'Noto Sans Mono CJK TC', monospace" font-size="14">Source</text>
+</svg>

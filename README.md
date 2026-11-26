@@ -3,12 +3,11 @@
 I build interactive websites and reusable UI with TypeScript.
 
 <p>
-  <a href="https://steeport.vercel.app/"><img src="assets/link-portfolio.png" width="104" height="36" alt="Portfolio"></a>
-  <a href="https://steeeee.notion.site/Shih-Wen-Yu-24535e0f492c8051b5fff2467ec32a37?source=copy_link"><img src="assets/link-resume.png" width="100" height="36" alt="Résumé"></a>
-  <a href="https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/"><img src="assets/link-linkedin.png" width="100" height="36" alt="LinkedIn"></a>
+  <a href="https://steeport.vercel.app/"><img src="assets/link-portfolio.svg" width="108" height="36" alt="Portfolio"></a>
+  <a href="https://steeeee.notion.site/Shih-Wen-Yu-24535e0f492c8051b5fff2467ec32a37?source=copy_link"><img src="assets/link-resume.svg" width="92" height="36" alt="Résumé"></a>
+  <a href="https://www.linkedin.com/in/shih-wen-yu-2b0ab1134/"><img src="assets/link-linkedin.svg" width="100" height="36" alt="LinkedIn"></a>
+  <a href="mailto:mr.steven7@gmail.com" title="mr.steven7@gmail.com"><img src="assets/link-email.svg" width="84" height="36" alt="Email mr.steven7@gmail.com"></a>
 </p>
-
-Email [mr.steven7@gmail.com](mailto:mr.steven7@gmail.com)
 
 ## Steeport
 
@@ -21,9 +20,9 @@ Email [mr.steven7@gmail.com](mailto:mr.steven7@gmail.com)
 Three.js · TypeScript · Blender
 
 <p>
-  <a href="https://steeport.vercel.app/"><img src="assets/link-cafe.png" width="150" height="36" alt="Enter the café"></a>
-  <a href="https://github.com/steeeee0223/steeport"><img src="assets/link-source.png" width="97" height="36" alt="View source"></a>
-  <a href="https://steeport.vercel.app/books/steeport-devlog/"><img src="assets/link-devlog.png" width="111" height="36" alt="開發日誌"></a>
+  <a href="https://steeport.vercel.app/"><img src="assets/link-cafe.svg" width="158" height="36" alt="Enter the café"></a>
+  <a href="https://github.com/steeeee0223/steeport"><img src="assets/link-source.svg" width="92" height="36" alt="View source"></a>
+  <a href="https://steeport.vercel.app/books/steeport-devlog/"><img src="assets/link-devlog.svg" width="101" height="36" alt="開發日誌"></a>
 </p>
 
 ## More frontend projects
